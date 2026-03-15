@@ -1,7 +1,7 @@
-# DevOps Micro Internship (DMI) – Cohort 2
+# DevOps Micro Internship (DMI) – Cohort 3
 
 This repository contains the **weekly assignments and challenges** for the  
-**DevOps Micro Internship (DMI) – Cohort 2** run by **Pravin Mishra / CloudAdvisory**.
+**DevOps Micro Internship (DMI) – Cohort 3** run by **Pravin Mishra / CloudAdvisory**.
 
 📌 **Important:**  
 Students **do not** submit assignments through this GitHub repo.  
@@ -17,8 +17,12 @@ Submissions are done via **Google Docs + Google Forms** as explained in the week
 - 🏢 **CloudAdvisory – Company Website:**  
   https://thecloudadvisory.com/  
 
-- 🎓 **DevOps for Beginners: Docker, K8s, Cloud, CI/CD & 4 Projects (Udemy):**  
-  https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/?referralCode=C5BA8236CCE9FE004F98  
+- 🎓 **DevOps Micro-Internship: Docker, K8s, Cloud + 4 Projects(Udemy):**  
+  [https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/?referralCode=C5BA8236CCE9FE004F98 ](https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/?couponCode=210189CA3E226DB90AFF)  
+
+- 🎓 **Ultimate Agentic AI DevOps with Claude Code(Udemy):**  
+[https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?couponCode=A0A5EACB14E790DCE44F](https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?couponCode=A0A5EACB14E790DCE44F) 
+  
 
 - ▶️ **DevOps for Beginners – YouTube Playlist:**  
   https://www.youtube.com/playlist?list=PLVOdqXbCs7bX88JeUZmK4fKTq2hJ5VS89  
