@@ -4,12 +4,12 @@ This repository contains the **weekly assignments and challenges** for the
 **DevOps Micro Internship (DMI) – Cohort 3** run by **Pravin Mishra / CloudAdvisory**.
 
 📌 **Important:**  
-- **Week 0 & 1:** Submit via Google Form as explained in the weekly guidelines.
-- **Week 2 onwards:** Submit via your own GitHub fork.
+- **Week 0:** Submit via Google Form (selection assignment).
+- **Week 1 onwards:** Submit via your own GitHub fork.
 
 ## 🍴 Fork the Assignment Submission Repo
 
-From Week 2, all assignments are submitted via GitHub. Fork the template repo below, fill in your work each week, and submit your fork URL via the Google Form.
+From Week 1, all assignments are submitted via GitHub. Fork the template repo below, fill in your work each week, and submit your fork URL via the Google Form.
 
 👉 **[Fork here: github.com/pravinmishraaws/devops-micro-internship-pravinmishra](https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra)**
 
